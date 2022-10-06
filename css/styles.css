@@ -1,0 +1,96 @@
+#girl{
+    background-color: red;
+    height: 70vh;
+    width: 60vw;
+    display: none;
+    
+}
+.boy{
+    background-color: red;
+    height: 70vh;
+    width: 60vw;
+    display: none; 
+}
+#div1{
+    display: none;
+}
+.are{
+    height: 80vh;
+    width: 60vw;
+    background-color: whitesmoke;
+}
+#h1{
+    font-size: 60px;
+    text-align: center;
+    margin: auto;
+}
+#dark{
+    margin: auto;
+}
+
+#carb{
+    margin: auto 10px;
+}
+.freya{
+    background-color: bisque;
+  
+}
+#card{
+    display: none;
+}
+
+
+
+#div3, #div2, #div4, #div5, #div5, #div6{
+    display: none;
+    font-size: 40px;
+    margin: auto;
+    background-color: bisque;
+}
+
+#div1 {
+    display: none;
+    font-size: 40px;
+    margin: auto;
+    background-color: bisque;
+}
+
+#dating{
+    display:none;
+    height: 40vh;
+    width: 60vw;
+    background-color: antiquewhite;
+    margin-bottom: 100px;
+}
+#thy{
+    height: 250px;
+    width: 40%;
+    border-radius: 100px;
+    text-align: center;
+}
+#img{
+    display: none;
+    height: 70vh;
+    width: 60vw;
+    background-color: black;
+}
+.img{
+    height: 300px;
+    width: 50%;
+}
+#dry{
+    height: 250px;
+    width: 40%;
+}
+#tree{
+    height: 250px;
+    width: 34%; 
+}
+#div7{
+    display: none;
+    background-color: bisque;
+    font-size: 30px;
+}
+img{
+    margin-left: 490px;
+}
