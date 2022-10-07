@@ -543,21 +543,21 @@ $(document).ready(function () {
 //             $("#div4").fadeIn();
 //             $(".boy").fadeOut();
 
-//           }
-//           else if (nation == "2") {
-//             $("#div5").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "3") {
-//             $("#div6").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else {
-//             $("#div7").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//         }
-//       }
-//     }
-//   })
-// })
+          }
+          else if (nation == "2") {
+            $("#div5").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "3") {
+            $("#div6").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else {
+            $("#div7").fadeIn();
+            $(".boy").fadeOut();
+          }
+        }
+      }
+    }
+  })
+})
