@@ -1,6 +1,6 @@
 # _A DATING SITE_
 
-#### __
+#### _   this website is to help users find a match._
 
 #### By _**NIFEMI**_
 
@@ -15,7 +15,7 @@
 
 
 ## DESCRIPTION
-        this website is to help writers with their letters.
+        this website is to help users find a match.
 
 
 ## Setup/Installation Requirements

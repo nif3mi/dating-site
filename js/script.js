@@ -397,151 +397,151 @@ $(document).ready(function () {
           else if (nation == "2") {
             $("#div2").fadeIn();
             $(".boy").fadeOut();
-//           }
-//           else if (nation == "3") {
-//             $("#div3").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else {
-//             $("#div7").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//         }
-//         else if (height == "2") {
-//           if (nation == "1") {
-//             $("#div4").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "2") {
-//             $("#div5").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "3") {
-//             $("#div6").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else {
-//             $("#div7").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//         }
-//         else {
-//           if (nation == "1") {
-//             $("#div5").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "2") {
-//             $("#div4").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "3") {
-//             $("#div3").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else {
-//             $("#div7").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//         }
-//       }
-//       else if (hobby == "2") {
-//         if (height == "1") {
-//           if (nation == "1") {
-//             $("#div2").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "2") {
-//             $("#div1").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "3") {
-//             $("#div6").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else {
-//             $("#div7").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//         }
-//         else if (height == "2") {
-//           if (nation == "1") {
-//             $("#div1").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "2") {
-//             $("#div2").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "3") {
-//             $("#div3").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else {
-//             $("#div7").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//         }
-//         else {
-//           if (nation == "1") {
-//             $("#div4").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "2") {
-//             $("#div5").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "3") {
-//             $("#div6").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else {
-//             $("#div7").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//         }
-//       }
-//       else {
-//         if (height == "1") {
-//           if (nation == "1") {
-//             $("#div2").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "2") {
-//             $("#div1").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "3") {
-//             $("#div6").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else {
-//             $("#div7").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//         }
-//         else if (height == "2") {
-//           if (nation == "1") {
-//             $("#div1").fadeIn();
-//             $(".boy").fadeOut();
+          }
+          else if (nation == "3") {
+            $("#div3").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else {
+            $("#div7").fadeIn();
+            $(".boy").fadeOut();
+          }
+        }
+        else if (height == "2") {
+          if (nation == "1") {
+            $("#div4").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "2") {
+            $("#div5").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "3") {
+            $("#div6").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else {
+            $("#div7").fadeIn();
+            $(".boy").fadeOut();
+          }
+        }
+        else {
+          if (nation == "1") {
+            $("#div5").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "2") {
+            $("#div4").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "3") {
+            $("#div3").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else {
+            $("#div7").fadeIn();
+            $(".boy").fadeOut();
+          }
+        }
+      }
+      else if (hobby == "2") {
+        if (height == "1") {
+          if (nation == "1") {
+            $("#div2").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "2") {
+            $("#div1").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "3") {
+            $("#div6").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else {
+            $("#div7").fadeIn();
+            $(".boy").fadeOut();
+          }
+        }
+        else if (height == "2") {
+          if (nation == "1") {
+            $("#div1").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "2") {
+            $("#div2").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "3") {
+            $("#div3").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else {
+            $("#div7").fadeIn();
+            $(".boy").fadeOut();
+          }
+        }
+        else {
+          if (nation == "1") {
+            $("#div4").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "2") {
+            $("#div5").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "3") {
+            $("#div6").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else {
+            $("#div7").fadeIn();
+            $(".boy").fadeOut();
+          }
+        }
+      }
+      else {
+        if (height == "1") {
+          if (nation == "1") {
+            $("#div2").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "2") {
+            $("#div1").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "3") {
+            $("#div6").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else {
+            $("#div7").fadeIn();
+            $(".boy").fadeOut();
+          }
+        }
+        else if (height == "2") {
+          if (nation == "1") {
+            $("#div1").fadeIn();
+            $(".boy").fadeOut();
 
-//           }
-//           else if (nation == "2") {
-//             $("#div2").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else if (nation == "3") {
-//             $("#div3").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//           else {
-//             $("#div7").fadeIn();
-//             $(".boy").fadeOut();
-//           }
-//         }
-//         else {
-//           if (nation == "1") {
-//             $("#div4").fadeIn();
-//             $(".boy").fadeOut();
+          }
+          else if (nation == "2") {
+            $("#div2").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else if (nation == "3") {
+            $("#div3").fadeIn();
+            $(".boy").fadeOut();
+          }
+          else {
+            $("#div7").fadeIn();
+            $(".boy").fadeOut();
+          }
+        }
+        else {
+          if (nation == "1") {
+            $("#div4").fadeIn();
+            $(".boy").fadeOut();
 
           }
           else if (nation == "2") {
